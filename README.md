@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/llrlwicv93m1ciud?svg=true)](https://ci.appveyor.com/project/zuev720/ra-2-1)
+
+
 
 Портфолио с фильтрами
 ===
