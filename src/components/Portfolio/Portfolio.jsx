@@ -1,6 +1,6 @@
 import {Component} from 'react';
-import Toolbar from './ToolBar/Toolbar';
-import {ProjectList} from './ProjectList/ProjectList';
+import Toolbar from './ToolBar/Toolbar.jsx';
+import {ProjectList} from './ProjectList/ProjectList.jsx';
 import PropTypes from 'prop-types';
 
 export class Portfolio extends Component {
