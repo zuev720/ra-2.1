@@ -1,4 +1,3 @@
-import './App.css';
 import arrayProjects from './components/Portfolio/arrayProjects';
 import {Portfolio} from './components/Portfolio/Portfolio';
 
